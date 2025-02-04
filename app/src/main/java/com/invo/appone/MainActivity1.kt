@@ -24,6 +24,8 @@ class MainActivity1 : AppCompatActivity() {
     var url = "https://api.openai.com/v1/completions"
 
 
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main1)
